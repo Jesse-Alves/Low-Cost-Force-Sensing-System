@@ -75,8 +75,9 @@ Currently, robotics-assisted devices, such as exoskeleton and collaborative robo
 
 Keywords: Rehabilitation, Post-Stroke, Robotic, FSR, Low-Cost.
 
-[(Full article)]()
-[(Full Test Video)]()
+[(Full article)](https://github.com/Jesse-Alves/Low-Cost-Force-Sensing-System-Prototyping-for-Upper-Limb-Rehabilitation/blob/main/Low-Cost%20Force%20Sensing%20System%20Prototyping%20for%20for%20Upper-Limb%20Rehabilitation.pdf)
+
+[(Full Test Video)](https://1drv.ms/v/s!Ah6ATMOdK-3mgutUfqPUrB_IlDdTVw?e=WdsoXN)
 
 
 []()
@@ -88,6 +89,20 @@ Keywords: Rehabilitation, Post-Stroke, Robotic, FSR, Low-Cost.
   <a href=" ">
     <img src="images/img1.jpg" height="250" />
     <img src="images/img2.jpg" height="250" />
+  </a>
+</div>
+
+<div align="center">
+  <a href=" ">
+    <img src="images/img3.jpg" height="250" />
+    <img src="images/img4.jpg" height="250" />
+  </a>
+</div>
+
+<div align="center">
+  <a href=" ">
+    <img src="images/img5.jpg" height="250" />
+    <img src="images/img6.jpg" height="250" />
   </a>
 </div>
 
@@ -129,7 +144,7 @@ All this project was built in ROS2 Humble environment, using ROS2 Control, ESP32
 
 All the codes and CAD designs of the project are available in the repository.
 
-The written [Article]() has two appendices, one explains step by step how to reproduce the prototype and the second how to use the device.
+The written [Article](https://github.com/Jesse-Alves/Low-Cost-Force-Sensing-System-Prototyping-for-Upper-Limb-Rehabilitation/blob/main/Low-Cost%20Force%20Sensing%20System%20Prototyping%20for%20for%20Upper-Limb%20Rehabilitation.pdf) has two appendices, one explains step by step how to reproduce the prototype and the second how to use the device.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
