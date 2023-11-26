@@ -1,0 +1,2 @@
+colcon build --cmake-args -DCMAKE_BUILD_TYPE=Release --symlink-install && source install/setup.bash && ros2 launch rrbot_bringup rrbot.launch.py 
+

@@ -1,0 +1,9 @@
+<library path="rrbot_idyn_controller">
+  <class name="rrbot_idyn_controller/RRbotIDynController"
+        type="rrbot_idyn_controller::RRbotIDynController" 
+        base_class_type="controller_interface::ControllerInterface">
+  <description>
+    The rrbot_idyn_controller commands the joint position of the rrbot through the joint effort interface and computes the inverse dynamics.
+  </description>
+  </class>
+</library>

@@ -1,0 +1,40 @@
+controller_manager:
+  ros__parameters:
+    update_rate: 2000  # Hz
+
+    joint_state_broadcaster:
+      type: joint_state_broadcaster/JointStateBroadcaster
+
+    forward_effort_controller:
+      type: forward_command_controller/ForwardCommandController
+
+    rrbot_pdg_controller:
+      type: rrbot_pdg_controller/RRbotPDGController
+
+    rrbot_idyn_controller:
+      type: rrbot_idyn_controller/RRbotIDynController
+
+
+forward_position_controller:
+  ros__parameters:
+    joints:
+      - joint1
+      - joint2
+    interface_name: effort
+
+
+rrbot_pdg_controller:
+  ros__parameters:
+    joints:
+      - joint1
+      - joint2
+    KP: 5.0
+    KD: 2.0
+
+rrbot_idyn_controller:
+  ros__parameters:
+    joints:
+      - joint1
+      - joint2
+    KP: 100.0
+    KD: 50.0

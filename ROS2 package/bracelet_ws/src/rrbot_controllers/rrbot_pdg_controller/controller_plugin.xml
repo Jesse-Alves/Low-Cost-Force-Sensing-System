@@ -1,0 +1,9 @@
+<library path="rrbot_pdg_controller">
+  <class name="rrbot_pdg_controller/RRbotPDGController"
+        type="rrbot_pdg_controller::RRbotPDGController" 
+        base_class_type="controller_interface::ControllerInterface">
+  <description>
+    The rrbot_pdg_controller commands the joint position of the rrbot through the joint effort interface and compensates for gravity.
+  </description>
+  </class>
+</library>

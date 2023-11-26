@@ -1,0 +1,34 @@
+Creo-Version Creo8 2021284
+
+EMX-Version  EMX14.0.1.0
+Trailfile-Path (option trail_dir): C:\Users\jessa\AppData\Local\Temp\
+Or Trailfile-Path (cwd): C:\Users\jessa\OneDrive\Master\Master Classes\Internship M1\bracelet_project_Jesse_Alves\CAD Projects\
+
+
+EMX Parameter-Config
+--------------------
+POS	COMP	INTEGER	10	Y	Y	Y	N	&pos_id
+QTY	COMP	INTEGER	10	Y	Y	Y	N	&qty
+PARTNAME	PART	STRING	40	Y	Y	Y	Y	&partname
+PARTID	PART	STRING	20	Y	Y	Y	N	&partid
+BOM_NAME	PART	STRING	30	Y	Y	Y	N	&bomname
+SUPPLIER	PART	STRING	30	Y	Y	Y	N	&supplier
+MATERIAL	PART	STRING	30	Y	Y	Y	N	&material
+ORD_NUMBER	PART	STRING	30	Y	Y	Y	Y	&ord_number
+SIZE	PART	STRING	30	Y	Y	Y	N	&size
+DRW_SHEET	COMP	STRING	12	Y	N	Y	N	&drw_page
+REP_SHEET	COMP	STRING	12	Y	N	Y	N	&bom_page
+NOTE	PART	STRING	20	Y	Y	Y	N	&remark
+SPECIAL	PART	STRING	20	N	N	N	N	&special
+MODELED_BY	PART	STRING	20	N	N	Y	N	&modeled_by
+DATE	PART	STRING	10	N	N	Y	N	&date
+PROJECTNAME	PART	STRING	30	N	N	Y	N	&projectname
+PROJECTPREFIX	PART	STRING	20	N	N	N	N	&prefix
+PROJECTPOSTFIX	PART	STRING	20	N	N	N	N	&postfix
+SIDE	COMP	STRING	10	N	N	N	N	&side
+SIM_GROUP	COMP	STRING	10	N	N	N	N	&sim_group
+LIST_EXAMPLE	PART	STRING	20	Y	Y	Y	N	AB-123
+
+
+EMX Config Options (not default)
+--------------------------------
