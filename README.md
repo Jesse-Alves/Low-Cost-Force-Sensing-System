@@ -77,15 +77,19 @@ Keywords: Rehabilitation, Post-Stroke, Robotic, FSR, Low-Cost.
 
 [(Full article)](https://github.com/Jesse-Alves/Low-Cost-Force-Sensing-System-Prototyping-for-Upper-Limb-Rehabilitation/blob/main/Low-Cost%20Force%20Sensing%20System%20Prototyping%20for%20for%20Upper-Limb%20Rehabilitation.pdf)
 
-[(Full Test Video)](https://1drv.ms/v/s!Ah6ATMOdK-3mgutUfqPUrB_IlDdTVw?e=WdsoXN)
 
+
+## Experiment with prototype
 
 <div align="center">
     <img width="600" src="images/gif_bracelet.gif" alt="color picker" />
 </div>
 
 
-### The Prototype
+[(Full Test Video)](https://1drv.ms/v/s!Ah6ATMOdK-3mgutUfqPUrB_IlDdTVw?e=WdsoXN)
+
+
+### Prototype Pictures
 
 <div align="center">
   <a href=" ">
