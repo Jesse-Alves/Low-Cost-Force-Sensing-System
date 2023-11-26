@@ -81,7 +81,7 @@ Keywords: Rehabilitation, Post-Stroke, Robotic, FSR, Low-Cost.
 
 
 <div align="center">
-    <img width="400" src="images/gif_bracelet.gif" alt="color picker" />
+    <img width="600" src="images/gif_bracelet.gif" alt="color picker" />
 </div>
 
 
@@ -97,15 +97,9 @@ Keywords: Rehabilitation, Post-Stroke, Robotic, FSR, Low-Cost.
 <div align="center">
   <a href=" ">
     <img src="images/img3.jpg" height="250" />
-  </a>
-</div>
-
-<div align="center">
-  <a href=" ">
     <img src="images/img4.jpg" height="250" />
   </a>
 </div>
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
